@@ -1,4 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
 body {
     margin: 0;
     font-family: 'Graphik';
+}
+h1, h2 {
+    color: #2D2D2D;
+    line-height: 1.3;
+}
+p {
+    color: #383838;
+    line-height: 1.5;
 }
