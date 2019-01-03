@@ -9,7 +9,33 @@ h1, h2 {
     color: #2D2D2D;
     line-height: 1.3;
 }
+h1 {
+    font-size: 45px;
+}
+h2 {
+    font-size: 30px;
+}
 p {
     color: #383838;
     line-height: 1.5;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 30px;
+}
+input {
+    display: inline-block;
+    border: none;
+    border-bottom: 2px solid #02BBBB;
+    color: #02BBBB;
+    font-size: 30px;
+    text-align: center;
+}
+input:focus {
+    outline: none;
+}
+input::-webkit-input-placeholder {
+    color: #02BBBB;
+}
+button:focus {
+    outline: none;
 }

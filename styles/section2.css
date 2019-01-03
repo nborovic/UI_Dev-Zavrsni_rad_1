@@ -9,12 +9,6 @@
     width: 25%;
     margin-left: 75px;
 }
-#section_2-text > h2 {
-    font-size: 30px;
-}
-#section_2-text > p {
-    font-size: 20px;
-}
 #section_2-text > p > a {
     text-decoration: none;
     color: #00baba;
