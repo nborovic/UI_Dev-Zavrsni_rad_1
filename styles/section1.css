@@ -1,0 +1,35 @@
+#section_1 {
+    padding: 20px;
+    text-align: center;
+}
+#section_1 h1 {
+    font-size: 45px;
+    color: #2D2D2D;
+    line-height: 1.3;
+}
+#section_1 p {
+    margin-bottom: 30px;
+    font-size: 20px;
+    color: #383838;
+    line-height: 1.5;
+}
+#section_1 span {
+    margin-right: 22px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2D2D2D;
+}
+#social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#social a {
+    margin: 0 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 33px !important;
+    height: 33px !important;
+    background: #E5F8F8;
+}
