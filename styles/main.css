@@ -1,0 +1,21 @@
+Main {
+    background: #E8F8F8;
+    text-align: center;
+}
+#main-content {
+    display: inline-block;
+}
+Header {
+    margin: 0 25px;
+    margin-bottom: 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#join_us-button {
+    padding: 35.25px 29px;
+    background: #00BABA;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
