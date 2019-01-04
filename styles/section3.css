@@ -8,14 +8,15 @@
     text-align: center;
 }
 #section_3 > span:first-of-type {
-    font-size: 35px;
-    color: #2D2D2D;
+    font-size: 30px;
+    color: #383838;
     line-height: 1.8;
 }
 #section_3 > input {
     width: 260px;
 }
 #section_3 > span:last-of-type {
+    color: #383838;
     margin: 20px 0 40px 0;
     font-size: 13px;
 }
