@@ -1,0 +1,10 @@
+Footer {
+    padding: 48px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+Footer p {
+    margin: 0;
+    font-size: 15px;
+}

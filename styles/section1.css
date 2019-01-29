@@ -1,0 +1,24 @@
+#section_1 {
+    padding: 20px;
+    text-align: center;
+}
+#section_1 span {
+    margin-right: 22px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2D2D2D;
+}
+#social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#social a {
+    margin: 0 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 33px !important;
+    height: 33px !important;
+    background: #E5F8F8;
+}
